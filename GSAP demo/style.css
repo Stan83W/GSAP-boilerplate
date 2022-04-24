@@ -1,0 +1,20 @@
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	background-color: rgb(235,235,235);
+	position: relative;
+}
+img {
+	width: 200px;
+}
+body {
+	margin: 0;
+}
+.title {
+	position: absolute;
+	font-family: "Antique Legacy";
+	font-size: 20px;
+	top: 12px;
+}
